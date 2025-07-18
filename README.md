@@ -40,7 +40,7 @@ To run locally:
 - HTML5, CSS3, JavaScript (Vanilla)
 - Fetch API for HTTP requests
 - `json-server` as a mock RESTful API
-- Backend hosted on [Render](https://render.com)
+- Backend hosted on [Render](https://dashboard.render.com/web/srv-d1tagmbipnbc73f88iqg/deploys/dep-d1tagn3ipnbc73f88itg)
 - Modal-based UI with dynamic DOM manipulation
 
 ## API Endpoint
