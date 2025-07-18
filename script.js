@@ -22,7 +22,7 @@ let pendingEditEmployee = null;
 let pendingDeleteEmployee = null;
 
 function fetchEmployees() {
-  fetch("http://localhost:3000/employees")
+  fetch("https://database-management-dashboard-api.onrender.com")
     .then(res => res.json())
     .then(data => {
       allEmployees = data;
@@ -159,7 +159,7 @@ function setupModalListeners() {
       }
     };
 
-    fetch("http://localhost:3000/employees", {
+    fetch("https://database-management-dashboard-api.onrender.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
@@ -211,7 +211,7 @@ function setupModalListeners() {
       }
     };
 
-    fetch(`http://localhost:3000/employees/${id}`, {
+    fetch(`https://database-management-dashboard-api.onrender.com/${id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json"
@@ -248,7 +248,7 @@ function setupModalListeners() {
 
   document.getElementById("confirmDeleteBtn").addEventListener("click", () => {
     if (pendingDeleteEmployee) {
-      fetch(`http://localhost:3000/employees/${pendingDeleteEmployee.id}`, {
+      fetch(`https://database-management-dashboard-api.onrender.com/${pendingDeleteEmployee.id}`, {
         method: "DELETE"
       })
         .then(() => {
