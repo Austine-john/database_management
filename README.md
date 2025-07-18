@@ -15,7 +15,7 @@ A dynamic employee management system that allows organizations to manage, view, 
 
 ## Live Demo
 
-[View the Live App Here](https://austine-john.github.io/employee-database-dashboard/)  
+[View the Live App Here](https://austine-john.github.io/database_management/)  
 > ⚠️ Ensure the backend is active to avoid fetch errors due to Render's server sleep mode.
 
 ## Getting Started
