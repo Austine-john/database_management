@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Employee Management</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="header">
+    <h1>Employee Database</h1>
+    <p>Manage Your Team efficiently with our modern dashboard</p>
+  </div>
+
+  <div class="controls">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search employees" />
+      <span class="search-icon"></span>
+    </div>
+    <button id="addEmployeeBtn">Add Employee</button>
+  </div>
+
+  <div class="main-content">
+    <div class="employee-list">
+      <h2 class="section-title">Employees</h2>
+      <ul id="employees">
+        <!-- Employee items will be injected here by JavaScript -->
+      </ul>
+    </div>
+
+    <div id="employee-details">
+      <h2 class="section-title">Employee Details</h2>
+      <div id="details-content" class="details-card">
+      <!-- Detailed view injected dynamically -->
+       </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

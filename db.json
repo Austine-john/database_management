@@ -1,0 +1,224 @@
+{
+  "employees": [
+    {
+      "Basic Information": {
+        "Full Name": "John Jones",
+        "employee id": 1,
+        "department": "Technology",
+        "position": "Frontend Developer",
+        "Manager": "Jane Doe"
+      },
+      "Contact Info": {
+        "email": "johnjones@companyemail.com",
+        "phone": "0790549011",
+        "Address": "Nairobi, NBO"
+      },
+      "Employment Details": {
+        "Hire Date": "2021-07-05",
+        "Salary": "80000",
+        "Years Of Service": 4
+      },
+      "id": "52fd"
+    },
+    {
+      "Basic Information": {
+        "Full Name": "Alice Kamau",
+        "employee id": 2,
+        "department": "Finance",
+        "position": "Accountant",
+        "Manager": "Martin Otieno"
+      },
+      "Contact Info": {
+        "email": "alice.kamau@companyemail.com",
+        "phone": "0712345678",
+        "Address": "Westlands, Nairobi"
+      },
+      "Employment Details": {
+        "Hire Date": "2020-03-15",
+        "Salary": "90000",
+        "Years Of Service": 5
+      },
+      "id": "076c"
+    },
+    {
+      "Basic Information": {
+        "Full Name": "Brian Oduor",
+        "employee id": 3,
+        "department": "Human Resources",
+        "position": "HR Officer",
+        "Manager": "Susan Achieng"
+      },
+      "Contact Info": {
+        "email": "brian.oduor@companyemail.com",
+        "phone": "0700111222",
+        "Address": "Kisumu, KSM"
+      },
+      "Employment Details": {
+        "Hire Date": "2019-11-20",
+        "Salary": 75000,
+        "Years Of Service": 6
+      },
+      "id": "4aeb"
+    },
+    {
+      "Basic Information": {
+        "Full Name": "Caroline Wanjiru",
+        "employee id": 4,
+        "department": "Technology",
+        "position": "Backend Developer",
+        "Manager": "Jane Doe"
+      },
+      "Contact Info": {
+        "email": "caroline.wanjiru@companyemail.com",
+        "phone": "0723456789",
+        "Address": "Thika, Central"
+      },
+      "Employment Details": {
+        "Hire Date": "2022-01-10",
+        "Salary": 95000,
+        "Years Of Service": 3
+      },
+      "id": "d28f"
+    },
+    {
+      "Basic Information": {
+        "Full Name": "David Mwangi",
+        "employee id": 5,
+        "department": "Operations",
+        "position": "Logistics Officer",
+        "Manager": "Peter Maina"
+      },
+      "Contact Info": {
+        "email": "david.mwangi@companyemail.com",
+        "phone": "0799887766",
+        "Address": "Mombasa, Coast"
+      },
+      "Employment Details": {
+        "Hire Date": "2018-06-30",
+        "Salary": "70000",
+        "Years Of Service": 7
+      },
+      "id": "56b0"
+    },
+    {
+      "Basic Information": {
+        "Full Name": "Evelyn Chebet",
+        "employee id": 6,
+        "department": "Customer Service",
+        "position": "Customer Support Agent",
+        "Manager": "James Kariuki"
+      },
+      "Contact Info": {
+        "email": "evelyn.chebet@companyemail.com",
+        "phone": "0701234567",
+        "Address": "Eldoret, Rift Valley"
+      },
+      "Employment Details": {
+        "Hire Date": "2020-10-01",
+        "Salary": "600000",
+        "Years Of Service": 4
+      },
+      "id": "eea3"
+    },
+    {
+      "Basic Information": {
+        "Full Name": "Grace Muthoni",
+        "employee id": 8,
+        "department": "Marketing",
+        "position": "Social Media Manager",
+        "Manager": "Victor Kimani"
+      },
+      "Contact Info": {
+        "email": "grace.muthoni@companyemail.com",
+        "phone": "0729988776",
+        "Address": "Machakos, Eastern"
+      },
+      "Employment Details": {
+        "Hire Date": "2021-08-23",
+        "Salary": "85000",
+        "Years Of Service": 3
+      },
+      "id": "4420"
+    },
+    {
+      "Basic Information": {
+        "Full Name": "Hassan Abdalla",
+        "employee id": 9,
+        "department": "Legal",
+        "position": "Legal Advisor",
+        "Manager": "Florence Nyongesa"
+      },
+      "Contact Info": {
+        "email": "hassan.abdalla@companyemail.com",
+        "phone": "0744112233",
+        "Address": "Garissa, North Eastern"
+      },
+      "Employment Details": {
+        "Hire Date": "2017-09-14",
+        "Salary": "20000",
+        "Years Of Service": 8
+      },
+      "id": "576f"
+    },
+    {
+      "Basic Information": {
+        "Full Name": "Irene Njeri",
+        "employee id": 10,
+        "department": "Procurement",
+        "position": "Procurement Officer",
+        "Manager": "Michael Ouma"
+      },
+      "Contact Info": {
+        "email": "irene.njeri@companyemail.com",
+        "phone": "0700778899",
+        "Address": "Nyeri, Central"
+      },
+      "Employment Details": {
+        "Hire Date": "2019-04-03",
+        "Salary": "78000",
+        "Years Of Service": 5
+      },
+      "id": "ed40"
+    },
+    {
+      "id": "e817",
+      "Basic Information": {
+        "Full Name": "John Austine",
+        "employee id": "10",
+        "department": "Technology",
+        "position": "Frontend Developer",
+        "Manager": "John jones"
+      },
+      "Contact Info": {
+        "email": "austineochieng101@gmail.com",
+        "phone": "0792549012",
+        "Address": "PO Box 1133-00511, Nairobi"
+      },
+      "Employment Details": {
+        "Hire Date": "2025-07-18",
+        "Salary": "100000",
+        "Years Of Service": 0
+      }
+    },
+    {
+      "id": "4860",
+      "Basic Information": {
+        "Full Name": "Grace Kamau",
+        "employee id": "25",
+        "department": "Legal",
+        "position": "Legal Advisor",
+        "Manager": "Victor Kimani"
+      },
+      "Contact Info": {
+        "email": "gracekamu@company.com",
+        "phone": "07112233446",
+        "Address": "Kisumu City, Ksm"
+      },
+      "Employment Details": {
+        "Hire Date": "2013-01-01",
+        "Salary": "25000",
+        "Years Of Service": 12
+      }
+    }
+  ]
+}
